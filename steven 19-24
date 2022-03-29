@@ -7,15 +7,15 @@ nav{
     width: 25%;
 margin: 20px;} 
     .colorbonito{color: forestgreen;}
+padding: 10px 30px;
+text-decoration: none;}
+.nav-enlace:hover{background: #495371;}
+button{background: #54BAB9;
     .Padre{display: flex;}
     .margen{margin: above 30px, 25px;}
 
     .nav-enlace{ background: #9C51E0;
     color: black;
-padding: 10px 30px;
-text-decoration: none;}
-.nav-enlace:hover{background: #495371;}
-button{background: #54BAB9;
 color: blueviolet;}
 button:hover{background: #495371;}
 button:active{background:#4D77FF;}
