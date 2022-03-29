@@ -1,0 +1,26 @@
+nav{
+    background: #9AD0EC; 
+    padding: 20px;}
+    .Columnas{background:#4D77FF;
+    color: black;
+    padding: 30px;
+    width: 25%;
+margin: 20px;} 
+    .colorbonito{color: forestgreen;}
+    .Padre{display: flex;}
+    .margen{margin: above 30px, 25px;}
+
+    .nav-enlace{ background: #9C51E0;
+    color: black;
+padding: 10px 30px;
+text-decoration: none;}
+.nav-enlace:hover{background: #495371;}
+button{background: #54BAB9;
+color: blueviolet;}
+button:hover{background: #495371;}
+button:active{background:#4D77FF;}
+.nav-boton{display:inline-block}
+
+
+    
+    
